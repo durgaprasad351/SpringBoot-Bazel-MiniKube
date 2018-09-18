@@ -9,8 +9,16 @@ This app consists
 3. Bazel dependencies need to push docker images to k8 cluster
 4. Instructions to setup and run in minikube
 
-Pre-requisites
+Pre-requisites:
 1. Bazel should be setup on local machine
 2. Minikube should be setup on local machine
 3. Kubectl should be setup on local machine
+
+Credits:
+1. Bazel docker plugin 
+2. Bazel k8s plugin
+3. Bazel spring-boot plugin
+
+
+
 
